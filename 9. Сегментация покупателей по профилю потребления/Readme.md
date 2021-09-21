@@ -1,6 +1,6 @@
 # **Сегментация покупателей по профилю потребления**
 
-_Стек технологий: Python, Pandas, Matplotlib, Seaborn, Scipy, Sclearn_
+_Стек технологий: Python, Pandas, Matplotlib, Seaborn, Scipy, Sklearn_
 
 **Описание проекта**
 
