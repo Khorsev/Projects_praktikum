@@ -1,6 +1,6 @@
 # **Анализ факторов, влияющих на отток посетителей фитнес-центра. Машинное обучение**
 
-_Стек технологий: Python, Pandas, Matplotlib, Seaborn, Sclearn_
+_Стек технологий: Python, Pandas, Matplotlib, Seaborn, Sklearn_
 
 **Описание проекта**
 
